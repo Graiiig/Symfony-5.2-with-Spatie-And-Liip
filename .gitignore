@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ###> symfony/framework-bundle ###
 /.env.local
@@ -14,6 +15,8 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+=======
+>>>>>>> 8b18c70b3fccfafa323574a8f06b23e2e26fa3a6
 # Cache and logs (Symfony2)
 /app/cache/*
 /app/logs/*
